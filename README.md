@@ -5,7 +5,7 @@
 ### I'm an enthusiastic and detail-oriented Junior Front-End developer in love with code. Currently learning React Native, TS, Node.js.
 
 
-## Languages and technologies 🛠️
+## Languages and tools 🛠️
 
 <div align="center">
 
