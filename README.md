@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8EF718FF&width=435&lines=Hi+everyone!+I'm+Daryna;Frontend+developer+💚)](https://git.io/typing-svg)`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8EF718FF&width=435&lines=Hi+everyone!+I'm+Daryna;Frontend+developer+💚)](https://git.io/typing-svg)
 
-`
+
 ## About me 👩🏽‍💻
 ### I'm an enthusiastic and detail-oriented Junior Front-End developer in love with code. Currently learning React Native, TS, Node.js.`
 <div align="center">
