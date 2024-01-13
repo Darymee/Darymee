@@ -2,7 +2,7 @@
 
 
 ## About me 👩🏽‍💻
-### I'm an enthusiastic and detail-oriented Junior Front-End developer in love with code. Currently learning React Native, TS, Node.js.`
+### I'm an enthusiastic and detail-oriented Front-End developer in love with code. Currently learning React Native, TS, Node.js.`
 <div align="center">
 <img src="https://github.com/jmhobbs/party-gopher/blob/master/dancing-gopher.gif"/> 
 </div>
