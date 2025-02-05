@@ -2,7 +2,7 @@
 
 
 ## About me 👩🏽‍💻
-### I'm an enthusiastic and detail-oriented Frontend developer in love with code and design. Based in Austria 🇦🇹
+### Software Engineer at Dynatrace 🚀
 
 ![](https://komarev.com/ghpvc/?username=darymee&style=flat&color=81fe03&abbreviated=true)
 
